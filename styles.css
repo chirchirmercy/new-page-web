@@ -106,7 +106,7 @@ body{
 .button3{
     background-color: brown;
     border-radius: 20px;
-    color: ;
+    
 }
 .G{
     margin-left: 100PX;
@@ -259,6 +259,13 @@ background-color: blueviolet;height:330px
 
     
 @media screen  and (max-width :800px){
+  
+   
     
 }
+.set{
+    margin-left: -400px;
+}
+    
+
     
