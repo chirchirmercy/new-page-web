@@ -1,0 +1,392 @@
+body{
+    height: 1800px;
+ }
+ 
+ .set{
+    display: flex; 
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+ }
+ .brick{
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: #FFD600;
+    height: 80PX;
+ }
+ .catalog{
+    margin-left: 50px;
+    color: black;
+    background-color: gray;
+ 
+ }
+ .search{
+    margin-left: 50px;
+    border-radius: 400px;
+    color: black;
+    background-color: white;
+ }
+ .icons{
+    margin-left: 1000px;
+ margin-top: -20px;
+ }
+ .order{
+    margin-left: 98px;
+ }
+ .img1{
+    margin-left: 100px;
+ }
+ .AT{
+    margin-top: -150PX;
+    margin-left: 250px;
+    
+ }
+ .dolasgn{
+    margin-left: 600px;
+    margin-top: -38px;
+ }
+ .buttons{
+    margin-left: 253px;
+ }
+ .b1{
+    color: black;
+    background-color: grey;
+ }
+ .b2{
+    color: white;
+    background-color: #FFD600;
+ }
+ 
+ .img2{
+    margin-left: 100px;
+    margin-top: 80px;
+ }
+ .TIE{
+    margin-left: 250px;
+    margin-top: -150px;
+ }
+ .b3{
+    color: black;
+    background-color: grey;
+ }
+ .b4{
+    color: black;
+    background-color: #FFD600;
+    margin-top: 10px;
+ }
+ .dola2{
+    margin-left: 600px;
+    margin-top: -70px;
+ }
+ .img3{
+    margin-top: 150px;
+    margin-left: 100px;
+ }
+ .Troop{
+    margin-left: 280px;
+    margin-top: -100px;
+ 
+ }
+ .dola3{
+    margin-left: 600px;
+    margin-top: -50px;
+ }
+ .Block{
+    margin-left: 950px;
+    margin-top: -450px;
+ }
+ .A{
+    margin-top: 450PX;
+    margin-left: 400PX;
+ }
+ .B{
+    margin-top: 130PX;
+    margin-left: 140PX;
+ }
+ .C{
+    margin-left: 420PX;
+    margin-top: -300PX;
+ }
+ .D{
+    border-radius: 20PX;
+    color:white;
+    background-color:brown;
+ }
+ .F{
+    margin-left: 700PX;
+    margin-top: -330PX;
+ }
+ .E{
+    border-radius: 20PX;
+    color: white;
+    background-color: brown;
+ }
+ .G{
+    margin-left: 350PX;
+    margin-top: -400PX;
+ }
+ .H{ 
+    color: brown;
+ }
+ .m{
+    color: brown;
+ }
+ .company{
+    margin-left: -680px;
+    margin-top: 60px;
+    background-color: #260046;
+    color: white;
+    
+ }
+ .bricklogo{
+    margin-left: 50px;
+    background-color: #260046;
+ }
+ .words{
+    margin-left: 120px;
+    margin-top: -50px;
+    font-size: 30px;
+    color: white; 
+    background-color: #260046;
+ }
+ .help{
+    margin-top: -350px;
+    margin-left: -250px;
+    background-color: #260046;
+    
+ }
+ .contacts{
+    margin-top: -280px;
+    margin-left: 100px;
+    background-color: #260046;
+ }
+ .network{
+    margin-left: 400px;
+    margin-top: -285px;
+ 
+  
+ }
+ 
+ .footer{
+    background-color: #260046;
+    height: 300px;
+    /* padding-right: 900px; */
+    color: white;
+    
+ }
+ .Block{
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px;
+    border-radius: 50px;
+    
+    
+ }
+ .d{
+   color: white;
+   background-color: #FFD600;
+   border-radius: 50px;
+ }
+ .u{
+   color: green;
+   border-color: green;
+   border-radius: 50px;
+ }
+     
+@media screen  and (max-width :900px){
+   body{
+      height: 1800px;
+      display: grid;
+   }
+   
+   .set{
+      display: flex; 
+      justify-content: space-between;
+      list-style: none;
+      margin-left: 300px;
+      margin-right: 300px;
+      margin-top: 100px;
+   }
+   .images{
+      display: grid;
+   }
+   .images2{
+      display: grid;
+   }
+   .brick{
+      margin-left: 100px;
+      margin-top: 30px;
+      background-color: #FFD600;
+      height: 80PX;
+   }
+   .catalog{
+      margin-left: 50px;
+      color: black;
+      background-color: gray;
+   
+   }
+   .search{
+      margin-left: 50px;
+      border-radius: 400px;
+      color: black;
+      background-color: white;
+   }
+   .icons{
+      margin-left: 1000px;
+   margin-top: -20px;
+   }
+   .order{
+      margin-left: 98px;
+   }
+   .img1{
+      margin-left: 100px;
+   }
+   .AT{
+      margin-top: -150PX;
+      margin-left: 250px;
+      
+   }
+   .dolasgn{
+      margin-left: 600px;
+      margin-top: -38px;
+   }
+   .buttons{
+      margin-left: 253px;
+   }
+   .b1{
+      color: black;
+      background-color: grey;
+   }
+   .b2{
+      color: white;
+      background-color: #FFD600;
+   }
+   
+   .img2{
+      margin-left: 100px;
+      margin-top: 80px;
+   }
+   .TIE{
+      margin-left: 250px;
+      margin-top: -150px;
+   }
+   .b3{
+      color: black;
+      background-color: grey;
+   }
+   .b4{
+      color: black;
+      background-color: #FFD600;
+      margin-top: 10px;
+   }
+   .dola2{
+      margin-left: 600px;
+      margin-top: -70px;
+   }
+   .img3{
+      margin-top: 150px;
+      margin-left: 100px;
+   }
+   .Troop{
+      margin-left: 280px;
+      margin-top: -100px;
+   
+   }
+   .dola3{
+      margin-left: 600px;
+      margin-top: -50px;
+   }
+   .Block{
+      margin-left: 950px;
+      margin-top: -450px;
+   }
+   .A{
+      margin-top: 450PX;
+      margin-left: 400PX;
+   }
+   .B{
+      margin-top: 130PX;
+      margin-left: 140PX;
+   }
+   .C{
+      margin-left: 420PX;
+      margin-top: -300PX;
+   }
+   .D{
+      border-radius: 20PX;
+      color:white;
+      background-color:brown;
+   }
+   .F{
+      margin-left: 700PX;
+      margin-top: -330PX;
+   }
+   .E{
+      border-radius: 20PX;
+      color: white;
+      background-color: brown;
+   }
+   .G{
+      margin-left: 350PX;
+      margin-top: -400PX;
+   }
+   .H{ 
+      color: brown;
+   }
+   .m{
+      color: brown;
+   }
+   .company{
+      margin-left: -680px;
+      margin-top: 60px;
+      background-color: #260046;
+      color: white;
+      
+   }
+   .bricklogo{
+      margin-left: 50px;
+      background-color: #260046;
+   }
+   .words{
+      margin-left: 120px;
+      margin-top: -50px;
+      font-size: 30px;
+      color: white; 
+      background-color: #260046;
+   }
+   .help{
+      margin-top: -350px;
+      margin-left: -250px;
+      background-color: #260046;
+      
+   }
+   .contacts{
+      margin-top: -280px;
+      margin-left: 100px;
+      background-color: #260046;
+   }
+   .network{
+      margin-left: 400px;
+      margin-top: -285px;
+   
+    
+   }
+   
+   .footer{
+      background-color: #260046;
+      height: 300px;
+      /* padding-right: 900px; */
+      color: white;
+      
+   }
+   .Block{
+      border: 1px solid black;
+      width: 200px;
+      
+      
+   }
+
+
+}
