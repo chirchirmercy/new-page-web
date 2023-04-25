@@ -1,0 +1,220 @@
+
+
+body{
+    height: 900px;
+ }
+ 
+ .brick{
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: #FFD600;
+    height: 80PX;
+ }
+ 
+ .icons{
+    margin-left: 600px;
+ margin-top: -20px;
+ color: white;
+ }
+ .icon2{
+    margin-left: 1000px;
+    margin-top: -30px;
+    color: white;
+ }
+ .b1{
+    margin-left: 100px;
+    margin-top: 60px;
+ }
+ .info{
+    margin-left: 100px;
+ }
+ .button1{
+    padding-right: 50px;
+ }
+ .button2{
+    padding-right: 50px;
+ }
+ .b2{
+    margin-left: 300px;
+    margin-top: -170px;
+ }
+ .delivery{
+    margin-left: 100px;
+ }
+ .dolasign{
+    margin-left: 100px;
+    margin-top: -20px;
+ }
+ .free{
+    margin-left:100px ;
+    margin-top:-40px ;
+    color: green;
+ }
+ .button3{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-color: green;
+    color: green;
+ }
+ .button4{
+    padding-left: 30px;
+    padding-right: 30px;
+ 
+ }
+ .button5{
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: #FFD600;
+ 
+ }
+ .product{
+    margin-left: 700px;
+    margin-top: -270px;
+    border: 1px solid black;
+    width: 200px;
+   padding: 20px;
+    border-radius: 50px;
+       
+       
+    }
+    .set{
+       margin-left: 100px;
+    }
+    .button6{
+    color: white;
+    background-color: brown;
+    }
+    .button7{
+       color: white;
+       background-color: red;
+ 
+    }
+    .button8{
+       color: white;
+       background-color: #FFD600;
+    }
+ .words{
+    margin-left: 400px;
+    margin-top: -160px;
+ }
+ .w1{
+    color: brown;
+    
+ }
+    
+ .w2{
+    color: green;
+    
+ }
+ .w3{
+    color: green;
+ }
+ .method{
+    margin-left: 100px;
+    margin-top: 50px;
+ }
+ .set2{
+    margin-left: 100px;
+ }
+ .money{
+    color: white;
+    background-color: yellow;
+ }
+ .google{
+    color:hwb(298 0% 0%) ;
+ }
+ 
+ 
+ 
+ @media(max-width:800px){
+    .brick{
+       margin-left:-1px;
+       width:285px;
+       height:100px
+    }
+    .icons{
+       color:black;
+       margin-left:-1px;
+       margin-top:1px;
+    }
+    .icon2{
+       color:black;
+       margin-left:1px;
+       margin-top:0.5px
+    }
+    .info{
+       font-size:20px;
+       margin-left:-2px
+    }
+    .product{
+       margin-top:50px;
+       margin-left:-1px
+    }
+    .b2{
+       margin-top:50px;
+       margin-left:5px
+    }
+    .b1{
+       margin-left:1px
+    }
+    .delivery{
+       margin-left:1px
+    }
+    @media(max-width:800px){
+       .brick{
+          margin-left:-1px;
+          width:285px;
+          height:100px
+       }
+       .icons{
+          color:black;
+          margin-left:-1px;
+          margin-top:1px;
+       }
+       .icon2{
+          color:black;
+          margin-left:1px;
+          margin-top:0.5px
+       }
+       .info{
+          font-size:20px;
+          margin-left:-2px
+       }
+       .product{
+          margin-top:50px;
+          margin-left:-1px
+       }
+       .b2{
+          margin-top:50px;
+          margin-left:5px
+       }
+       .b1{
+          margin-left:1px
+       }
+       .delivery{
+          margin-left:1px
+       }
+       .set{
+          margin-left:1px
+          
+       }
+       .method{
+          
+          margin-left:1px
+          
+       }
+       .set2{
+          margin-left:1px
+       }
+       .words{
+          margin-left:1px
+          
+       }
+       .w1{
+          margin-top:55px
+       }
+       
+    
+    }
+ }
